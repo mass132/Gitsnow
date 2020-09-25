@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="info" max_length="40" name="x_501390_applicati_info" sizeclass="6" type="collection">
+        <element attributes="tree_picker=true" label="Departments" max_length="32" name="departments" reference="sys_user_group" reference_qual="typeLIKE1cb8ab9bff500200158bffffffffff62^ORtypeISEMPTY^EQ" reference_qual_condition="typeLIKE1cb8ab9bff500200158bffffffffff62^ORtypeISEMPTY^EQ" type="reference"/>
+        <element attributes="encode_utf8=false" dependent="departments" dependent_on_field="departments" label="Doctorname" max_length="32" name="doctorname" reference="sys_user" reference_floats="true" reference_qual="roles=itil^EQ" reference_qual_condition="roles=itil^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Firstname" max_length="40" name="firstname" type="string"/>
+        <element label="Mail" max_length="40" name="mail" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="integer"/>
+        <index name="index">
+            <element name="departments"/>
+        </index>
+        <index name="index2">
+            <element name="doctorname"/>
+        </index>
+    </element>
+</database>

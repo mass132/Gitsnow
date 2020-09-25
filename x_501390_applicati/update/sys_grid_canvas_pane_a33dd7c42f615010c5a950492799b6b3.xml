@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Service Now  Dash Bo - New Tab">257469882f2d1010c5a950492799b6c7</grid_canvas>
+        <height>18</height>
+        <portal_widget display_value="Created 17/06/2020 12:50:24">2b3dd7c42f615010c5a950492799b6b1</portal_widget>
+        <posx>6</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 12:50:25</sys_created_on>
+        <sys_id>a33dd7c42f615010c5a950492799b6b3</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>257469882f2d1010c5a950492799b6c7</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_a33dd7c42f615010c5a950492799b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 06:17:32</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

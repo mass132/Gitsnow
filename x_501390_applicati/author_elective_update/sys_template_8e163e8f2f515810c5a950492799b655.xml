@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="DELETE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>TEMPLATE2</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Demo template.</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-14 07:31:03</sys_created_on>
+        <sys_id>8e163e8f2f515810c5a950492799b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_template_8e163e8f2f515810c5a950492799b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-14 07:31:03</sys_updated_on>
+        <table>x_501390_applicati_table1</table>
+        <template>link=^condition=^EQ</template>
+        <user display_value="Junior developer">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_template_8e163e8f2f515810c5a950492799b655</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template"><sys_template action="INSERT_OR_UPDATE"><active>true</active><global>false</global><group/><link_element/><name>TEMPLATE2</name><next/><next_child/><roles/><short_description>Demo template.</short_description><show_on_template_bar>true</show_on_template_bar><stand_alone>false</stand_alone><sys_class_name>sys_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-14 07:31:03</sys_created_on><sys_id>8e163e8f2f515810c5a950492799b655</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TEMPLATE2</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_template_8e163e8f2f515810c5a950492799b655</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-14 07:31:03</sys_updated_on><table>x_501390_applicati_table1</table><template>link=^condition=^EQ</template><user display_value="Junior developer">6816f79cc0a8016401c5a33be04be441</user><view/></sys_template></record_update>]]></payload>
+        <payload_hash>-1255952466</payload_hash>
+        <record_name>TEMPLATE2</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-14 07:31:03</sys_created_on>
+        <sys_id>18673acf2f515810c5a950492799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172b1bd2ab50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-14 07:31:03</sys_updated_on>
+        <type>Template</type>
+        <update_guid>50673acf98515810d98ed0bd0e5fc56d</update_guid>
+        <update_guid_history>50673acf98515810d98ed0bd0e5fc56d:-1255952466</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-14 07:32:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_template">sys_template</sys_db_object>
+        <sys_id>1af26c8e4ce64b60aed66254d7dd7240</sys_id>
+        <sys_metadata>8e163e8f2f515810c5a950492799b655</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_template_8e163e8f2f515810c5a950492799b655</sys_update_name>
+        <sys_update_version display_value="sys_template_8e163e8f2f515810c5a950492799b655">18673acf2f515810c5a950492799b66d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-14 07:32:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_501390_applicati_studentsinfo" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_id>898dd8322fc21050c5a950492799b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_id>0d8dd8322fc21050c5a950492799b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>class</element>
+            <list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_id>8d8dd8322fc21050c5a950492799b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_id>018dd8322fc21050c5a950492799b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>phonenumber</element>
+            <list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_id>818dd8322fc21050c5a950492799b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>teachername</element>
+            <list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_id>058dd8322fc21050c5a950492799b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_501390_applicati_studentsinfo</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd8dd8322fc21050c5a950492799b652</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_501390_applicati_studentsinfo</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_ui_list_x_501390_applicati_studentsinfo_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_ui_list_x_501390_applicati_studentsinfo_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_501390_applicati_studentsinfo" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_id>898dd8322fc21050c5a950492799b653</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>name</element><list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_id>0d8dd8322fc21050c5a950492799b653</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>class</element><list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_id>8d8dd8322fc21050c5a950492799b653</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>email</element><list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_id>018dd8322fc21050c5a950492799b654</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>phonenumber</element><list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_id>818dd8322fc21050c5a950492799b654</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>teachername</element><list_id display_value="x_501390_applicati_studentsinfo" element="NULL" name="x_501390_applicati_studentsinfo" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cd8dd8322fc21050c5a950492799b652</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_id>058dd8322fc21050c5a950492799b654</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_501390_applicati_studentsinfo</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:27:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cd8dd8322fc21050c5a950492799b652</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_501390_applicati_studentsinfo</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_ui_list_x_501390_applicati_studentsinfo_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:27:25</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1481582586</payload_hash>
+        <record_name>StudentsInfo</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 08:27:25</sys_created_on>
+        <sys_id>858dd8322fc21050c5a950492799b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1736b55b4ed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 08:27:25</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>018dd832aac21050c38b59797422c456</update_guid>
+        <update_guid_history>018dd832aac21050c38b59797422c456:-1481582586,b97d5832b5c2105085dbe612540eeae9:202853026</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>0a1f6e2dc0e040a589b1cdd51ebc88a9</sys_id>
+        <sys_metadata>cd8dd8322fc21050c5a950492799b652</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_501390_applicati_studentsinfo</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent display_value="">d64a1cbe2f421050c5a950492799b647</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_501390_applicati_studentsinfo_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_501390_applicati_studentsinfo_null">858dd8322fc21050c5a950492799b656</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

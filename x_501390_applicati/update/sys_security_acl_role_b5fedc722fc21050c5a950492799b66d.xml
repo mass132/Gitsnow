@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 08:33:46</sys_created_on>
+        <sys_id>b5fedc722fc21050c5a950492799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_501390_applicati_demostudentlookup.x_501390_applicati.demostudentlookup_user</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_security_acl display_value="x_501390_applicati_demostudentlookup">75fedc722fc21050c5a950492799b66a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b5fedc722fc21050c5a950492799b66d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 08:33:46</sys_updated_on>
+        <sys_user_role display_value="x_501390_applicati.demostudentlookup_user" name="x_501390_applicati.demostudentlookup_user">b1fe58722fc21050c5a950492799b6ea</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

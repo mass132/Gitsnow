@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set">
+    <dl_definition_rel_set action="DELETE">
+        <always_replace>true</always_replace>
+        <dl_definition display_value="Student dataLookup">268224362fc21050c5a950492799b614</dl_definition>
+        <matcher_table>x_501390_applicati_demostudentlookup</matcher_table>
+        <matcher_table_field>phone_number</matcher_table_field>
+        <source_table>x_501390_applicati_studentsinfo</source_table>
+        <source_table_field>phonenumber</source_table_field>
+        <sys_class_name>dl_definition_rel_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 08:50:44</sys_created_on>
+        <sys_id>ccd2ac362fc21050c5a950492799b6db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>phonenumber</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>dl_definition_rel_set_ccd2ac362fc21050c5a950492799b6db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 08:51:25</sys_updated_on>
+    </dl_definition_rel_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>dl_definition_rel_set_ccd2ac362fc21050c5a950492799b6db</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_set"><dl_definition_rel_set action="INSERT_OR_UPDATE"><always_replace>true</always_replace><dl_definition display_value="Student dataLookup">268224362fc21050c5a950492799b614</dl_definition><matcher_table>x_501390_applicati_demostudentlookup</matcher_table><matcher_table_field>phone_number</matcher_table_field><source_table>x_501390_applicati_studentsinfo</source_table><source_table_field>phonenumber</source_table_field><sys_class_name>dl_definition_rel_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:50:44</sys_created_on><sys_id>ccd2ac362fc21050c5a950492799b6db</sys_id><sys_mod_count>1</sys_mod_count><sys_name>phonenumber</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>dl_definition_rel_set_ccd2ac362fc21050c5a950492799b6db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:51:25</sys_updated_on></dl_definition_rel_set></record_update>]]></payload>
+        <payload_hash>1078470663</payload_hash>
+        <record_name>phonenumber</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 08:51:25</sys_created_on>
+        <sys_id>a40360762fc21050c5a950492799b642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1736b6bad250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 08:51:25</sys_updated_on>
+        <type>Setter Field Definitions</type>
+        <update_guid>2003607683c210501978a2b76c460642</update_guid>
+        <update_guid_history>2003607683c210501978a2b76c460642:1078470663,22d2ac3640c21050ae485c9a247a4b99:1335219014</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="phonenumber">dfa9784c2f16d050c5a950492799b668</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:52</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition_rel_set">dl_definition_rel_set</sys_db_object>
+        <sys_id>161eb8b9215c45909b7e08dae4b9f900</sys_id>
+        <sys_metadata>ccd2ac362fc21050c5a950492799b6db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>phonenumber</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>dl_definition_rel_set_ccd2ac362fc21050c5a950492799b6db</sys_update_name>
+        <sys_update_version display_value="dl_definition_rel_set_ccd2ac362fc21050c5a950492799b6db">a40360762fc21050c5a950492799b642</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

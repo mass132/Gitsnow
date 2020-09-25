@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_501390_applicati_table1" version="2" view="exp_d3fda6e0c2f4e5810c5a950492799b6b8">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_501390_applicati_table1" element="NULL" name="x_501390_applicati_table1" parent="NULL" relationship="NULL" sys_domain="global" view="3bda6e0c2f4e5810c5a950492799b6b9">7fdae64c2f4e5810c5a950492799b629</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_id>37dae64c2f4e5810c5a950492799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_501390_applicati_table1" element="NULL" name="x_501390_applicati_table1" parent="NULL" relationship="NULL" sys_domain="global" view="3bda6e0c2f4e5810c5a950492799b6b9">7fdae64c2f4e5810c5a950492799b629</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_id>b7dae64c2f4e5810c5a950492799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_501390_applicati_table1" element="NULL" name="x_501390_applicati_table1" parent="NULL" relationship="NULL" sys_domain="global" view="3bda6e0c2f4e5810c5a950492799b6b9">7fdae64c2f4e5810c5a950492799b629</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_id>3bdae64c2f4e5810c5a950492799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sub_category</element>
+            <list_id display_value="x_501390_applicati_table1" element="NULL" name="x_501390_applicati_table1" parent="NULL" relationship="NULL" sys_domain="global" view="3bda6e0c2f4e5810c5a950492799b6b9">7fdae64c2f4e5810c5a950492799b629</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_id>bbdae64c2f4e5810c5a950492799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_501390_applicati_table1" element="NULL" name="x_501390_applicati_table1" parent="NULL" relationship="NULL" sys_domain="global" view="3bda6e0c2f4e5810c5a950492799b6b9">7fdae64c2f4e5810c5a950492799b629</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_id>3fdae64c2f4e5810c5a950492799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>caller</element>
+            <list_id display_value="x_501390_applicati_table1" element="NULL" name="x_501390_applicati_table1" parent="NULL" relationship="NULL" sys_domain="global" view="3bda6e0c2f4e5810c5a950492799b6b9">7fdae64c2f4e5810c5a950492799b629</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_id>bfdae64c2f4e5810c5a950492799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_501390_applicati_table1</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fdae64c2f4e5810c5a950492799b629</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_501390_applicati_table1</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_ui_list_x_501390_applicati_table1_exp_d3fda6e0c2f4e5810c5a950492799b6b8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Exp_d3fda6e0c2f4e5810c5a950492799b6b8" name="exp_d3fda6e0c2f4e5810c5a950492799b6b8">3bda6e0c2f4e5810c5a950492799b6b9</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

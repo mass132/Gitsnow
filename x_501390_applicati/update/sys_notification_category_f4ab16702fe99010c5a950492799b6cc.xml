@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_category">
+    <sys_notification_category action="INSERT_OR_UPDATE">
+        <name>Incident Notifications</name>
+        <short_description>When we create a new or update the current  ticket notifications.</short_description>
+        <sys_class_name>sys_notification_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 15:59:40</sys_created_on>
+        <sys_id>f4ab16702fe99010c5a950492799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Notifications</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_notification_category_f4ab16702fe99010c5a950492799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 15:59:40</sys_updated_on>
+    </sys_notification_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=f4ab16702fe99010c5a950492799b6cc"/>
+</record_update>

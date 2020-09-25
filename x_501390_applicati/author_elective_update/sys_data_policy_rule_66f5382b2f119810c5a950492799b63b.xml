@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>true</disabled>
+        <field>firstname</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 11:23:02</sys_created_on>
+        <sys_data_policy display_value="">f685f02b2f119810c5a950492799b6bf</sys_data_policy>
+        <sys_id>66f5382b2f119810c5a950492799b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>firstname</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_data_policy_rule_66f5382b2f119810c5a950492799b63b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 11:23:02</sys_updated_on>
+        <table>x_501390_applicati_table1</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_data_policy_rule_66f5382b2f119810c5a950492799b63b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>true</disabled><field>firstname</field><mandatory>ignore</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-15 11:23:02</sys_created_on><sys_data_policy display_value="">f685f02b2f119810c5a950492799b6bf</sys_data_policy><sys_id>66f5382b2f119810c5a950492799b63b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>firstname</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_data_policy_rule_66f5382b2f119810c5a950492799b63b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-15 11:23:02</sys_updated_on><table>x_501390_applicati_table1</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-8955254</payload_hash>
+        <record_name>firstname</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 11:23:02</sys_created_on>
+        <sys_id>c816342b2f119810c5a950492799b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172b7b7e8210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 11:23:02</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>0416342be61198103510b92d577f5206</update_guid>
+        <update_guid_history>0416342be61198103510b92d577f5206:-8955254</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 08:16:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>107e6e938da54e1e824a372e7b75c4e4</sys_id>
+        <sys_metadata>66f5382b2f119810c5a950492799b63b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>firstname</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent display_value="">f685f02b2f119810c5a950492799b6bf</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_66f5382b2f119810c5a950492799b63b</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_66f5382b2f119810c5a950492799b63b">c816342b2f119810c5a950492799b606</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 08:16:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

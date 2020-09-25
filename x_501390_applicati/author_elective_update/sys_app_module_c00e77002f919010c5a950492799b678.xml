@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="table1">0c0e77002f919010c5a950492799b675</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>table1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_501390_applicati_table1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_501390_applicati.table1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 04:57:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c00e77002f919010c5a950492799b678</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>demoincidenttables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_app_module_c00e77002f919010c5a950492799b678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 10:16:59</sys_updated_on>
+        <timeline_page/>
+        <title>demoincidenttables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_app_module_c00e77002f919010c5a950492799b678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="table1">0c0e77002f919010c5a950492799b675</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>table1s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_501390_applicati_table1</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_501390_applicati.table1_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-05 04:57:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c00e77002f919010c5a950492799b678</sys_id><sys_mod_count>6</sys_mod_count><sys_name>demoincidenttables</sys_name><sys_overrides/><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_app_module_c00e77002f919010c5a950492799b678</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-13 10:16:59</sys_updated_on><timeline_page/><title>demoincidenttables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-20068399</payload_hash>
+        <record_name>demoincidenttables</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-13 10:16:59</sys_created_on>
+        <sys_id>05c31ebe2f951810c5a950492799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ad2eb8230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 10:16:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8dc31ebeab951810995b36d0d34e6a2d</update_guid>
+        <update_guid_history>8dc31ebeab951810995b36d0d34e6a2d:-20068399,d7d7d57a6e151810a08cd80897b551a9:1819447003,ab77917ab9151810c2b1072ba00dcc6f:490650231,bf03a1aa1dd9d41073bf753ac5af56f4:1819447003,03e537961ed5d410871334f0583ec25b:490650231,ad65bf56d3d5d4108b55f20bd795b173:-20068399,0c0e7700e69190107c8ba4a7e8cece79:490650231</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="demoincidenttables">4ed39abe2f951810c5a950492799b641</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-13 10:17:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5785084b3a34403889ad31a3e63bb040</sys_id>
+        <sys_metadata>c00e77002f919010c5a950492799b678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demoincidenttables</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_app_module_c00e77002f919010c5a950492799b678</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c00e77002f919010c5a950492799b678">05c31ebe2f951810c5a950492799b62e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 10:17:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

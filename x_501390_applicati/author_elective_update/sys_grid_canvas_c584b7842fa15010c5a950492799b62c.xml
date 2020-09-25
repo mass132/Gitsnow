@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA Service Now  Dash Bo - New Tab 2">4d84b7842fa15010c5a950492799b62b</legacy_page>
+        <name>PA Service Now  Dash Bo - New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 14:32:06</sys_created_on>
+        <sys_id>c584b7842fa15010c5a950492799b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Service Now  Dash Bo - New Tab 2</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_grid_canvas_c584b7842fa15010c5a950492799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 14:32:06</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_grid_canvas_c584b7842fa15010c5a950492799b62c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA Service Now  Dash Bo - New Tab 2">4d84b7842fa15010c5a950492799b62b</legacy_page><name>PA Service Now  Dash Bo - New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-17 14:32:06</sys_created_on><sys_id>c584b7842fa15010c5a950492799b62c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA Service Now  Dash Bo - New Tab 2</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_grid_canvas_c584b7842fa15010c5a950492799b62c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-17 14:32:06</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-434686931</payload_hash>
+        <record_name>PA Service Now  Dash Bo - New Tab 2</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 14:32:06</sys_created_on>
+        <sys_id>8184b7842fa15010c5a950492799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c2b1b90a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 14:32:06</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>c984b784bfa150108772b68f07e0122d</update_guid>
+        <update_guid_history>c984b784bfa150108772b68f07e0122d:-434686931</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 14:32:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>944fd3c4cde94ad2a5fa0e3021ddf7c4</sys_id>
+        <sys_metadata>c584b7842fa15010c5a950492799b62c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Service Now  Dash Bo - New Tab 2</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_c584b7842fa15010c5a950492799b62c</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_c584b7842fa15010c5a950492799b62c">8184b7842fa15010c5a950492799b62e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 14:32:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

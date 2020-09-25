@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasLabels=true" audit="true" extends="x_501390_applicati_table2" label="demoincident" max_length="40" name="x_501390_applicati_table1" sizeclass="19" type="collection">
+        <element dependent="assigntogroup" dependent_on_field="assigntogroup" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" reference_qual="roles=itil^EQ" reference_qual_condition="roles=itil^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Assigntogroup" max_length="32" name="assigntogroup" reference="sys_user_group" reference_qual="typeISEMPTY^ORtypeLIKE1cb8ab9bff500200158bffffffffff62^EQ" reference_qual_condition="typeISEMPTY^ORtypeLIKE1cb8ab9bff500200158bffffffffff62^EQ" type="reference"/>
+        <element label="caller" mandatory="true" max_length="32" name="caller" reference="x_501390_applicati_table2" type="reference"/>
+        <element choice="1" hint="Please select  issue category" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="database" value="database"/>
+                <element inactive_on_update="false" label="hardware" value="hardware"/>
+                <element inactive_on_update="false" label="network" value="network"/>
+                <element inactive_on_update="false" label="software" value="software"/>
+            </choice>
+        </element>
+        <element dependent="table" dependent_on_field="table" label="Condition" max_length="4000" name="condition" type="conditions" use_dependent_field="true"/>
+        <element label="description" max_length="40" name="description" type="string"/>
+        <element label="emailid" max_length="100" name="emailid" type="string"/>
+        <element label="Hold Reason" max_length="4000" name="hold_reason" type="journal"/>
+        <element choice="1" label="Impact" max_length="40" name="impact" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 - High" value="1 - High"/>
+                <element inactive_on_update="false" label="2 - Medium" value="2 - Medium"/>
+                <element inactive_on_update="false" label="3 - Low" value="3 - Low"/>
+            </choice>
+        </element>
+        <element label="Issue Dated On" max_length="40" name="issue_dated_on" type="glide_date"/>
+        <element label="issue Image" max_length="40" name="issue_image" type="user_image"/>
+        <element label="Issue Resolved  On" max_length="40" name="issue_resolved_on" type="glide_date"/>
+        <element hint="It  know the issue." label="Link" max_length="1024" name="link" type="url"/>
+        <element attributes="ts_weight=50" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" label="Priority" max_length="40" name="priority" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 - Critical" value="1 - Critical"/>
+                <element inactive_on_update="false" label="2 - High" value="2 - High"/>
+                <element inactive_on_update="false" label="3 - Moderate" value="3 - Moderate"/>
+                <element inactive_on_update="false" label="4 - Low" value="4 - Low"/>
+            </choice>
+        </element>
+        <element label="Shortdescription" max_length="400" name="shortdescription" type="string_full_utf8"/>
+        <element label="Something" max_length="40" name="something" type="video"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="canceled" value="canceled"/>
+                <element inactive_on_update="false" label="closed" value="1"/>
+                <element inactive_on_update="false" label="In progress" value="In progress"/>
+                <element inactive_on_update="false" label="New" value="new"/>
+                <element inactive_on_update="false" label="on hold" value="on hold"/>
+                <element inactive_on_update="false" label="pending" value="pending"/>
+                <element inactive_on_update="false" label="resolved" value="resolved"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="category" dependent_on_field="category" label="Sub-Category" max_length="40" name="sub_category" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="database" inactive_on_update="false" label="DB2" sequence="0" value="DB2"/>
+                <element dependent_value="database" inactive_on_update="false" label="Mysql" sequence="1" value="Mysql"/>
+                <element dependent_value="database" inactive_on_update="false" label="Oracle" sequence="2" value="Oracle"/>
+                <element dependent_value="database" inactive_on_update="false" label="PostgreSQL" sequence="3" value="PostgreSQL"/>
+                <element dependent_value="database" inactive_on_update="false" label="Teradata" sequence="4" value="Teradata"/>
+                <element dependent_value="database" inactive_on_update="false" label="MongoDB" sequence="5" value="MongoDB"/>
+                <element dependent_value="database" inactive_on_update="false" label="MariaDB" sequence="6" value="MariaDB"/>
+                <element dependent_value="database" inactive_on_update="false" label="MSSql" sequence="7" value="MSSql"/>
+                <element inactive_on_update="false" label="anti virus" sequence="8" value="anti virus"/>
+                <element dependent_value="software" inactive_on_update="false" label="email" sequence="9" value="email"/>
+                <element inactive_on_update="false" label="internal application" sequence="10" value="internal application"/>
+                <element dependent_value="software" inactive_on_update="false" label="Skype" sequence="12" value="Skype"/>
+                <element dependent_value="software" inactive_on_update="false" label="Operating system" sequence="13" value="Operating system"/>
+                <element dependent_value="software" inactive_on_update="false" label="Service now" sequence="14" value="Service now"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="CPU" sequence="15" value="CPU"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="Disk" sequence="16" value="Disk"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="Key board" sequence="17" value="Key board"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="Memory" sequence="18" value="Memory"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="Mouse" sequence="19" value="Mouse"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="Monitor" sequence="20" value="Monitor"/>
+                <element dependent_value="hardware" inactive_on_update="false" label="Data Cables" sequence="21" value="Data Cables"/>
+                <element dependent_value="network" inactive_on_update="false" label="DHCP" sequence="22" value="DHCP"/>
+                <element dependent_value="network" inactive_on_update="false" label="DNS" sequence="23" value="DNS"/>
+                <element dependent_value="network" inactive_on_update="false" label="VPN" sequence="24" value="VPN"/>
+                <element dependent_value="network" inactive_on_update="false" label="IP address" sequence="25" value="IP address"/>
+                <element dependent_value="network" inactive_on_update="false" label="Wireless" sequence="26" value="Wireless"/>
+            </choice>
+        </element>
+        <element choice="2" label="Suggestion" max_length="40" name="suggestion" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Issue with Service" value="Issue with Service"/>
+                <element inactive_on_update="false" label="Issue with skype" value="Issue with skype"/>
+                <element inactive_on_update="false" label="Issue with web Mail" value="Issue with web Mail"/>
+                <element inactive_on_update="false" label="Issue with web page" value="Issue with web page"/>
+                <element inactive_on_update="false" label="Others" value="Others"/>
+                <element inactive_on_update="false" label="Request for help" value="Request for help"/>
+                <element inactive_on_update="false" label="Request for New or upgraded software" value="Request for New or upgraded software"/>
+                <element inactive_on_update="false" label="Request for New service" value="Request for New service"/>
+            </choice>
+        </element>
+        <element label="Table" max_length="80" name="table" type="table_name"/>
+        <element choice="1" label="Urgency" max_length="40" name="urgency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 - High" value="1 - High"/>
+                <element inactive_on_update="false" label="2 - Medium" value="2 - Medium"/>
+                <element inactive_on_update="false" label="3 - Low" value="3 - Low"/>
+            </choice>
+        </element>
+        <element label="Select a File" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="4000" name="u_journal_1" type="journal"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost" max_length="20" name="u_price_1" type="price"/>
+        <element label="Watch list" max_length="4000" name="watch_list" reference="sys_user" type="glide_list"/>
+        <index name="index">
+            <element name="caller"/>
+        </index>
+        <index name="index2">
+            <element name="assigntogroup"/>
+        </index>
+        <index name="index3">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

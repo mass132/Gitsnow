@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="DemoDepartment">f57443932f4e5050c5a950492799b6a5</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DemoDepartments</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_501390_applicati_demodepartment</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_501390_applicati.demodepartment_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 09:53:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b17443932f4e5050c5a950492799b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DemoDepartments</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_app_module_b17443932f4e5050c5a950492799b6a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 09:53:48</sys_updated_on>
+        <timeline_page/>
+        <title>DemoDepartments</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_app_module_b17443932f4e5050c5a950492799b6a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DemoDepartment">f57443932f4e5050c5a950492799b6a5</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>DemoDepartments</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_501390_applicati_demodepartment</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_501390_applicati.demodepartment_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-22 09:53:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b17443932f4e5050c5a950492799b6a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DemoDepartments</sys_name><sys_overrides/><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_app_module_b17443932f4e5050c5a950492799b6a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-22 09:53:48</sys_updated_on><timeline_page/><title>DemoDepartments</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-103151193</payload_hash>
+        <record_name>DemoDepartments</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 09:53:48</sys_created_on>
+        <sys_id>757443932f4e5050c5a950492799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17375f1827c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 09:53:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bd7443935c4e5050b533f70e4e3ee0a9</update_guid>
+        <update_guid_history>bd7443935c4e5050b533f70e4e3ee0a9:-103151193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DemoDepartments">912397db2f4e5050c5a950492799b6a8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 10:57:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>00cc0a5fa0bd459b823c46b7a3b0c4b9</sys_id>
+        <sys_metadata>b17443932f4e5050c5a950492799b6a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DemoDepartments</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_app_module_b17443932f4e5050c5a950492799b6a8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b17443932f4e5050c5a950492799b6a8">757443932f4e5050c5a950492799b6aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-22 10:57:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

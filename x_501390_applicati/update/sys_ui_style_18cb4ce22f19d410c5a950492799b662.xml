@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>suggestion</element>
+        <name>x_501390_applicati_table1</name>
+        <style>background-color:dimgray;&#13;
+font-size:24px;&#13;
+color:white;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 05:45:02</sys_created_on>
+        <sys_id>18cb4ce22f19d410c5a950492799b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_501390_applicati_table1</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_ui_style_18cb4ce22f19d410c5a950492799b662</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 05:45:02</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=18cb4ce22f19d410c5a950492799b662"/>
+</record_update>

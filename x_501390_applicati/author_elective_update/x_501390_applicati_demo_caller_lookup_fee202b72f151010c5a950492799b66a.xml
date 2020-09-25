@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_501390_applicati_demo_caller_lookup">
+    <x_501390_applicati_demo_caller_lookup action="DELETE">
+        <active>true</active>
+        <impact>1 - High</impact>
+        <order>100</order>
+        <priority>2-high</priority>
+        <sys_class_name>x_501390_applicati_demo_caller_lookup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 11:37:36</sys_created_on>
+        <sys_id>fee202b72f151010c5a950492799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>x_501390_applicati_demo_caller_lookup_fee202b72f151010c5a950492799b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 11:37:36</sys_updated_on>
+        <urgency>2 - Medium</urgency>
+    </x_501390_applicati_demo_caller_lookup>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>x_501390_applicati_demo_caller_lookup_fee202b72f151010c5a950492799b66a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_501390_applicati_demo_caller_lookup"><x_501390_applicati_demo_caller_lookup action="INSERT_OR_UPDATE"><active>true</active><impact>1 - High</impact><order>100</order><priority>2-high</priority><sys_class_name>x_501390_applicati_demo_caller_lookup</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-16 11:37:36</sys_created_on><sys_id>fee202b72f151010c5a950492799b66a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>x_501390_applicati_demo_caller_lookup_fee202b72f151010c5a950492799b66a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-16 11:37:36</sys_updated_on><urgency>2 - Medium</urgency></x_501390_applicati_demo_caller_lookup></record_update>]]></payload>
+        <payload_hash>-1345015893</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 11:37:36</sys_created_on>
+        <sys_id>8bf20e772f151010c5a950492799b616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172bceb985b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 11:37:36</sys_updated_on>
+        <type>demo Caller Lookup</type>
+        <update_guid>c3f20e77ef1510103140029b17d36316</update_guid>
+        <update_guid_history>c3f20e77ef1510103140029b17d36316:-1345015893</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="100">4d76863b2f151010c5a950492799b6c7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 11:52:45</sys_created_on>
+        <sys_db_object display_value="" name="x_501390_applicati_demo_caller_lookup">x_501390_applicati_demo_caller_lookup</sys_db_object>
+        <sys_id>0ed90a63acdf4e8099a05d0e03024000</sys_id>
+        <sys_metadata>fee202b72f151010c5a950492799b66a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>x_501390_applicati_demo_caller_lookup_fee202b72f151010c5a950492799b66a</sys_update_name>
+        <sys_update_version display_value="x_501390_applicati_demo_caller_lookup_fee202b72f151010c5a950492799b66a">8bf20e772f151010c5a950492799b616</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 11:52:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

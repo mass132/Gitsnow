@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ditable" max_length="40" name="x_501390_applicati_ditable" sizeclass="11" type="collection">
+        <element dependent="model" dependent_on_field="model" label="ID" max_length="32" name="id" type="document_id" use_dependent_field="true"/>
+        <element display="true" label="image1" max_length="40" name="image1" type="user_image"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="id"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

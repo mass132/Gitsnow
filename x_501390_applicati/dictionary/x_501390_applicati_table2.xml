@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table2" max_length="40" name="x_501390_applicati_table2" sizeclass="40" type="collection">
+        <element display="true" label="firstname" mandatory="true" max_length="40" name="firstname" type="string"/>
+        <element label="mail" max_length="40" name="mail" type="email"/>
+        <element label="PhoneNumber" max_length="40" name="phonenumber" type="phone_number_e164"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

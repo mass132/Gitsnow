@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="email" table="x_501390_applicati_studentsinfo" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>email</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teacher4@gmail.com</label>
+            <language>en</language>
+            <name>x_501390_applicati_studentsinfo</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:24:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dcc14322fc21050c5a950492799b610</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:24:33</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <name>x_501390_applicati_studentsinfo</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:22:49</sys_created_on>
+            <sys_id>a57cd4fe2f821050c5a950492799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>email</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_choice_x_501390_applicati_studentsinfo_email</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:22:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_choice_x_501390_applicati_studentsinfo_email</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="email" table="x_501390_applicati_studentsinfo" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>email</element><hint/><inactive>false</inactive><label>Teacher4@gmail.com</label><language>en</language><name>x_501390_applicati_studentsinfo</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:24:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8dcc14322fc21050c5a950492799b610</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:24:33</sys_updated_on><value>4</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>email</element><name>x_501390_applicati_studentsinfo</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:22:49</sys_created_on><sys_id>a57cd4fe2f821050c5a950492799b62d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>email</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_choice_x_501390_applicati_studentsinfo_email</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:22:49</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1943301423</payload_hash>
+        <record_name>x_501390_applicati_studentsinfo.email</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:51</sys_created_on>
+        <sys_id>83a9784c2f16d050c5a950492799b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1737fc655530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:51</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>0fa9784cd216d0500c8ac6c20eff2e38</update_guid>
+        <update_guid_history>0fa9784cd216d0500c8ac6c20eff2e38:1943301423,43a9784c2716d0505b868fcee5555936:458422395,87a9784c0416d0504d18f6445ad19033:-1775044313,f6dc54325cc21050b730e106ad0efb6e:434532147,b0dc14327fc210501f8e555a28c0a306:1160715130,65bcd8be478210501e29336fee3bafd9:-1984825017,84bcd032c5c21050b2de1b7f9de6efec:-1409651731,9eac1032b1c2105021d218d9312e15cb:1703562747,2cac543237c21050e61eec2e88d66444:1840396032,dd9c143248c21050c07f5373389d9fa3:-1189454236,b98c5cfe0d8210509627fbc624a46bc3:-1312006096,a97cd03255c21050c86ce5b68e2a6715:-128003457</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>a57cd4fe2f821050c5a950492799b62d</sys_id>
+        <sys_metadata>a57cd4fe2f821050c5a950492799b62d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>email</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_choice_x_501390_applicati_studentsinfo_email</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_501390_applicati_studentsinfo_email">83a9784c2f16d050c5a950492799b639</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

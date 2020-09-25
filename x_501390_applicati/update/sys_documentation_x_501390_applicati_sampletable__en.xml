@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="SampleTable" language="en" table="x_501390_applicati_sampletable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>SampleTable</label>
+            <language>en</language>
+            <name>x_501390_applicati_sampletable</name>
+            <plural>SampleTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-21 08:45:54</sys_created_on>
+            <sys_id>d55bad8f2fce1050c5a950492799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SampleTable</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_documentation_x_501390_applicati_sampletable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-21 08:45:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

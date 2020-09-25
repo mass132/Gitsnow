@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_501390_applicati_table2">x_501390_applicati_table2</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PAB</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 15:22:50</sys_created_on>
+        <sys_id>657345002fd95010c5a950492799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PAB</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_number_657345002fd95010c5a950492799b6b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 15:22:50</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_number_657345002fd95010c5a950492799b6b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_501390_applicati_table2">x_501390_applicati_table2</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>PAB</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-04 15:22:50</sys_created_on><sys_id>657345002fd95010c5a950492799b6b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PAB</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_number_657345002fd95010c5a950492799b6b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-04 15:22:50</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-352441870</payload_hash>
+        <record_name>PAB</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 15:22:50</sys_created_on>
+        <sys_id>a57305402fd95010c5a950492799b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727fed7f770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 15:22:50</sys_updated_on>
+        <type>Number</type>
+        <update_guid>ed73054014d9501061b11f054a7919b5</update_guid>
+        <update_guid_history>ed73054014d9501061b11f054a7919b5:-352441870</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 02:55:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>2415cef891054ae7bb74d8b810e09869</sys_id>
+        <sys_metadata>657345002fd95010c5a950492799b6b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PAB</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent display_value="">8c3cf00c2f995010c5a950492799b64a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_number_657345002fd95010c5a950492799b6b8</sys_update_name>
+        <sys_update_version display_value="sys_number_657345002fd95010c5a950492799b6b8">a57305402fd95010c5a950492799b6b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 02:55:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

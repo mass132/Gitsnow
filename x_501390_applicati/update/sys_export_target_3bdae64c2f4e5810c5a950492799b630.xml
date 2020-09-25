@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_export_target">
+    <sys_export_target action="INSERT_OR_UPDATE">
+        <description/>
+        <file_path>/servicenow/mid_server123/agent/export/file_output</file_path>
+        <method>File on MID Server</method>
+        <mid_server display_value="Demo">68986a1c2f7d1010c5a950492799b695</mid_server>
+        <name>Export1_Demo</name>
+        <sys_class_name>sys_export_target</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 05:41:44</sys_created_on>
+        <sys_id>3bdae64c2f4e5810c5a950492799b630</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Export1_Demo</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_export_target_3bdae64c2f4e5810c5a950492799b630</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 05:41:44</sys_updated_on>
+    </sys_export_target>
+</record_update>

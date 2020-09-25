@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="teachername" table="x_501390_applicati_studentsinfo" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>teachername</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Syam</label>
+            <language>en</language>
+            <name>x_501390_applicati_studentsinfo</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:26:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b22dd0322fc21050c5a950492799b6df</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:26:19</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>teachername</element>
+            <name>x_501390_applicati_studentsinfo</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:25:40</sys_created_on>
+            <sys_id>9b1d1cfe2f821050c5a950492799b647</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>teachername</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_choice_x_501390_applicati_studentsinfo_teachername</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:25:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_choice_x_501390_applicati_studentsinfo_teachername</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="teachername" table="x_501390_applicati_studentsinfo" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>teachername</element><hint/><inactive>false</inactive><label>Syam</label><language>en</language><name>x_501390_applicati_studentsinfo</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:26:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b22dd0322fc21050c5a950492799b6df</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:26:19</sys_updated_on><value>3</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>teachername</element><name>x_501390_applicati_studentsinfo</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:25:40</sys_created_on><sys_id>9b1d1cfe2f821050c5a950492799b647</sys_id><sys_mod_count>0</sys_mod_count><sys_name>teachername</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_choice_x_501390_applicati_studentsinfo_teachername</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:25:40</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1078586083</payload_hash>
+        <record_name>x_501390_applicati_studentsinfo.teachername</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:51</sys_created_on>
+        <sys_id>8ba9784c2f16d050c5a950492799b64f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1737fc657200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:51</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>07a9784c2a16d050b743c2094354114f</update_guid>
+        <update_guid_history>07a9784c2a16d050b743c2094354114f:1078586083,4ba9784c4b16d050350428cea451674c:424744849,8fa9784c6216d050f35890cdc4f45a49:-914330236,9c5d943214c21050656c55230662db92:-197793032,d24d5432a7c210507570988e8fa5de72:981014249,ac4dd8fe8d821050db9e1473fdbc1cc7:-914330236,033d5032a2c210509285e18b8097fa05:-991232860,372d983226c2105027b1c59649ede0d0:1994213527,6a2d983281c210501382d76406f04105:923959340,f82d5cfe44821050787d1004a6414adf:126360996,531d583245c210500eb71956c14a8bfc:-406136312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>9b1d1cfe2f821050c5a950492799b647</sys_id>
+        <sys_metadata>9b1d1cfe2f821050c5a950492799b647</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>teachername</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_choice_x_501390_applicati_studentsinfo_teachername</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_501390_applicati_studentsinfo_teachername">8ba9784c2f16d050c5a950492799b64f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_501390_applicati_demostudentlookup">
+    <x_501390_applicati_demostudentlookup action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <email>2</email>
+        <order>100</order>
+        <phone_number>4</phone_number>
+        <sys_class_name>x_501390_applicati_demostudentlookup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 08:45:04</sys_created_on>
+        <sys_id>7481a8f22fc21050c5a950492799b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>x_501390_applicati_demostudentlookup_7481a8f22fc21050c5a950492799b601</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 08:45:04</sys_updated_on>
+        <teacher_name>2</teacher_name>
+    </x_501390_applicati_demostudentlookup>
+</record_update>

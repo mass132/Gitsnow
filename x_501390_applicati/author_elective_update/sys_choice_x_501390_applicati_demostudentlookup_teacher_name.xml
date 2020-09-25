@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="teacher_name" table="x_501390_applicati_demostudentlookup" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>teacher_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sai</label>
+            <language>en</language>
+            <name>x_501390_applicati_demostudentlookup</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:39:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c206cb22fc21050c5a950492799b6a5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:39:28</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>teacher_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ramu</label>
+            <language>en</language>
+            <name>x_501390_applicati_demostudentlookup</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:38:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b002cb22fc21050c5a950492799b621</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:38:56</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>teacher_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Syam</label>
+            <language>en</language>
+            <name>x_501390_applicati_demostudentlookup</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c306cb22fc21050c5a950492799b6a6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:39:37</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>teacher_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Raju</label>
+            <language>en</language>
+            <name>x_501390_applicati_demostudentlookup</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:38:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6ffd8b22fc21050c5a950492799b6a8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:38:34</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>teacher_name</element>
+            <name>x_501390_applicati_demostudentlookup</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:38:28</sys_created_on>
+            <sys_id>f200a8722fc21050c5a950492799b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>teacher_name</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_choice_x_501390_applicati_demostudentlookup_teacher_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:38:28</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="class" table="x_501390_applicati_studentsinfo" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Third Class</label>
+            <language>en</language>
+            <name>x_501390_applicati_studentsinfo</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:17:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>012b9cf62f821050c5a950492799b6c4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:17:23</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>class</element>
+            <name>x_501390_applicati_studentsinfo</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-20 08:16:46</sys_created_on>
+            <sys_id>c11b90fe2f821050c5a950492799b6aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>class</sys_name>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_choice_x_501390_applicati_studentsinfo_class</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-20 08:16:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_choice_x_501390_applicati_studentsinfo_class</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="class" table="x_501390_applicati_studentsinfo" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>class</element><hint/><inactive>false</inactive><label>Third Class</label><language>en</language><name>x_501390_applicati_studentsinfo</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:17:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>012b9cf62f821050c5a950492799b6c4</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:17:23</sys_updated_on><value>3</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>class</element><name>x_501390_applicati_studentsinfo</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-20 08:16:46</sys_created_on><sys_id>c11b90fe2f821050c5a950492799b6aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>class</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_choice_x_501390_applicati_studentsinfo_class</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-20 08:16:46</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1296219098</payload_hash>
+        <record_name>x_501390_applicati_studentsinfo.class</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:51</sys_created_on>
+        <sys_id>baa9784c2f16d050c5a950492799b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1737fc654790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:51</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>36a9784c6516d050f5ae8326cad6de2d</update_guid>
+        <update_guid_history>36a9784c6516d050f5ae8326cad6de2d:-1296219098,7aa9784c4e16d050eb4f3374e816942a:1520512787,fd3b14fe14821050a96ab83df742f12c:283437881,d43bd0fe548210509c89ef725ac0375a:2029140815,522b103ef982105088117695aa2b1539:147998820,342b90fe63821050313bf11b060e80b5:1953087225,261b90fefd821050c06f337039fc2af4:1568326769,c91b90fea5821050094415736409f0ab:1695342037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 07:42:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>c11b90fe2f821050c5a950492799b6aa</sys_id>
+        <sys_metadata>c11b90fe2f821050c5a950492799b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>class</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_choice_x_501390_applicati_studentsinfo_class</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_501390_applicati_studentsinfo_class">baa9784c2f16d050c5a950492799b62d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 07:42:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

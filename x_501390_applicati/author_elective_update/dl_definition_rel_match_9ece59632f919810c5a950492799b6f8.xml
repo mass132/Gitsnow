@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="DELETE">
+        <dl_definition display_value="demo lookup">0e5e55632f919810c5a950492799b694</dl_definition>
+        <exact_match>true</exact_match>
+        <matcher_table>x_501390_applicati_demo_caller_lookup</matcher_table>
+        <matcher_table_field>state</matcher_table_field>
+        <source_table>x_501390_applicati_table1</source_table>
+        <source_table_field>state</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 14:23:41</sys_created_on>
+        <sys_id>9ece59632f919810c5a950492799b6f8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>dl_definition_rel_match_9ece59632f919810c5a950492799b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 15:46:00</sys_updated_on>
+    </dl_definition_rel_match>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>dl_definition_rel_match_9ece59632f919810c5a950492799b6f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match"><dl_definition_rel_match action="INSERT_OR_UPDATE"><dl_definition display_value="demo lookup">0e5e55632f919810c5a950492799b694</dl_definition><exact_match>true</exact_match><matcher_table>x_501390_applicati_demo_caller_lookup</matcher_table><matcher_table_field>state</matcher_table_field><source_table>x_501390_applicati_table1</source_table><source_table_field>state</source_table_field><sys_class_name>dl_definition_rel_match</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-15 14:23:41</sys_created_on><sys_id>9ece59632f919810c5a950492799b6f8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>dl_definition_rel_match_9ece59632f919810c5a950492799b6f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-15 15:46:00</sys_updated_on></dl_definition_rel_match></record_update>]]></payload>
+        <payload_hash>-1494209369</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 15:46:00</sys_created_on>
+        <sys_id>0442f56f2f919810c5a950492799b61f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172b8a8a98d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 15:46:00</sys_updated_on>
+        <type>Matcher Field Definitions</type>
+        <update_guid>8c42f56f9091981085b0688ea4e50b1e</update_guid>
+        <update_guid_history>8c42f56f9091981085b0688ea4e50b1e:-1494209369,d66f55639f919810687fd7ff031bd99b:-43358650</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="state">0c140eb72f151010c5a950492799b671</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 11:42:18</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition_rel_match">dl_definition_rel_match</sys_db_object>
+        <sys_id>be0812f22b074d4496ed7c4b26d651e1</sys_id>
+        <sys_metadata>9ece59632f919810c5a950492799b6f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent display_value="demo lookup">0e5e55632f919810c5a950492799b694</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>dl_definition_rel_match_9ece59632f919810c5a950492799b6f8</sys_update_name>
+        <sys_update_version display_value="dl_definition_rel_match_9ece59632f919810c5a950492799b6f8">0442f56f2f919810c5a950492799b61f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 11:42:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

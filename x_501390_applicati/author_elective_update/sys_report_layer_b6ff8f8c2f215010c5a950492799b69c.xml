@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_layer">
+    <sys_report_layer action="DELETE">
+        <aggregate>COUNT</aggregate>
+        <allow_data_label_overlap>false</allow_data_label_overlap>
+        <bar_unstack>false</bar_unstack>
+        <color display_value="UI14 Green">3b36c9b3d7332100fa6c0c12ce610311</color>
+        <color_palette display_value="Blues light to dark (5)">b22671cdd7500200b96d45a3ce6103ee</color_palette>
+        <colors/>
+        <compute_percent>aggregate</compute_percent>
+        <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
+        <field/>
+        <filter/>
+        <import_table/>
+        <interval>year</interval>
+        <list_ui_view/>
+        <report display_value="incident report">7bc765b32fd11010c5a950492799b667</report>
+        <report_source display_value="Incidents.Closed (Incident)">05958072d7232100b96d45a3ce6103d9</report_source>
+        <sequence>1</sequence>
+        <series_name_text>data set1</series_name_text>
+        <set_color>one_color</set_color>
+        <show_2nd_y_axis>false</show_2nd_y_axis>
+        <show_chart_data_label>false</show_chart_data_label>
+        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_marker>false</show_marker>
+        <source_type>source</source_type>
+        <style_config/>
+        <sumfield/>
+        <sys_class_name>sys_report_layer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 11:52:28</sys_created_on>
+        <sys_id>b6ff8f8c2f215010c5a950492799b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data set1</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_report_layer_b6ff8f8c2f215010c5a950492799b69c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 11:52:28</sys_updated_on>
+        <table>incident</table>
+        <trend_field>activity_due</trend_field>
+        <type>line_bar</type>
+        <use_null_in_trend>false</use_null_in_trend>
+        <y_axis_from/>
+        <y_axis_title/>
+        <y_axis_to/>
+    </sys_report_layer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Application1">8dcf48cc2f195010c5a950492799b610</application>
+        <file_path/>
+        <instance_id>bc344916db78bf0491232f17d49619a2</instance_id>
+        <instance_name>dev81255</instance_name>
+        <name>sys_report_layer_b6ff8f8c2f215010c5a950492799b69c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_layer"><sys_report_layer action="INSERT_OR_UPDATE"><aggregate>COUNT</aggregate><allow_data_label_overlap>false</allow_data_label_overlap><bar_unstack>false</bar_unstack><color display_value="UI14 Green">3b36c9b3d7332100fa6c0c12ce610311</color><color_palette display_value="Blues light to dark (5)">b22671cdd7500200b96d45a3ce6103ee</color_palette><colors/><compute_percent>aggregate</compute_percent><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><field/><filter/><import_table/><interval>year</interval><list_ui_view/><report display_value="incident report">7bc765b32fd11010c5a950492799b667</report><report_source display_value="Incidents.Closed (Incident)">05958072d7232100b96d45a3ce6103d9</report_source><sequence>1</sequence><series_name_text>data set1</series_name_text><set_color>one_color</set_color><show_2nd_y_axis>false</show_2nd_y_axis><show_chart_data_label>false</show_chart_data_label><show_data_label_position_middle>false</show_data_label_position_middle><show_marker>false</show_marker><source_type>source</source_type><style_config/><sumfield/><sys_class_name>sys_report_layer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-17 11:52:28</sys_created_on><sys_id>b6ff8f8c2f215010c5a950492799b69c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>data set1</sys_name><sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package><sys_policy/><sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope><sys_update_name>sys_report_layer_b6ff8f8c2f215010c5a950492799b69c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-17 11:52:28</sys_updated_on><table>incident</table><trend_field>activity_due</trend_field><type>line_bar</type><use_null_in_trend>false</use_null_in_trend><y_axis_from/><y_axis_title/><y_axis_to/></sys_report_layer></record_update>]]></payload>
+        <payload_hash>1392243255</payload_hash>
+        <record_name>data set1</record_name>
+        <reverted_from/>
+        <source>c1cfc8002f595010c5a950492799b695</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 11:52:28</sys_created_on>
+        <sys_id>76ff8bcc2f215010c5a950492799b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172c21f93eb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 11:52:28</sys_updated_on>
+        <type>Report Layer</type>
+        <update_guid>beff8bccf02150103f72a1d47f588d3b</update_guid>
+        <update_guid_history>beff8bccf02150103f72a1d47f588d3b:1392243255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 11:55:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_layer">sys_report_layer</sys_db_object>
+        <sys_id>84d37b2a6c5c4aab96bd04a7a80dd9c9</sys_id>
+        <sys_metadata>b6ff8f8c2f215010c5a950492799b69c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data set1</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_scope_delete display_value="">000045dc2aaa461a8003ad088c98b804</sys_scope_delete>
+        <sys_update_name>sys_report_layer_b6ff8f8c2f215010c5a950492799b69c</sys_update_name>
+        <sys_update_version display_value="sys_report_layer_b6ff8f8c2f215010c5a950492799b69c">76ff8bcc2f215010c5a950492799b63c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 11:55:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_501390_applicati.zprototypes_user" name="x_501390_applicati.zprototypes_user">b367ecd32f955810c5a950492799b65a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-14 15:40:38</sys_created_on>
+        <sys_id>bf67241b2f955810c5a950492799b67f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b367ecd32f955810c5a950492799b65a</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bf67241b2f955810c5a950492799b67f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-14 15:40:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Upload a image of Problem." section_id="923eca2d2f955410c5a950492799b6ee" sys_domain="global" table="x_501390_applicati_table1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>issue_image</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-16 07:30:30</sys_created_on>
+            <sys_id>eb6a8d332f911010c5a950492799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Upload a image of Problem." display_value="Upload a image of Problem." name="x_501390_applicati_table1" sys_domain="global" view="Default view">923eca2d2f955410c5a950492799b6ee</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-16 07:30:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Upload a image of Problem.</caption>
+            <header>false</header>
+            <name>x_501390_applicati_table1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-09 12:40:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>923eca2d2f955410c5a950492799b6ee</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Upload a image of Problem.</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+            <sys_update_name>sys_ui_section_923eca2d2f955410c5a950492799b6ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 11:00:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

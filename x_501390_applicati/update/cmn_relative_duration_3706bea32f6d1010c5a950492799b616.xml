@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_relative_duration">
+    <cmn_relative_duration action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Demo 3 Business days</name>
+        <script><![CDATA[// 3 business days by 4pm if before 10am
+var days = 3;
+// If the current time is after 10:00, add another day
+if (calculator.isAfter(calculator.startDateTime, "10:00:00")) {
+   days++;
+}
+
+calculator.calcRelativeDueDate(calculator.startDateTime, days, "16:00:00");   ]]></script>
+        <sys_class_name>cmn_relative_duration</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-28 06:58:34</sys_created_on>
+        <sys_id>3706bea32f6d1010c5a950492799b616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo 3 Business days</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>cmn_relative_duration_3706bea32f6d1010c5a950492799b616</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-28 06:58:34</sys_updated_on>
+    </cmn_relative_duration>
+</record_update>

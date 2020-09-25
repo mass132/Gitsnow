@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="DemoStudentLookup" max_length="40" name="x_501390_applicati_demostudentlookup" sizeclass="4" type="collection">
+        <element choice="1" label="Email" max_length="100" name="email" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Teacher1@gmail.com" value="1"/>
+                <element inactive_on_update="false" label="Teacher2@gmail.com" value="2"/>
+                <element inactive_on_update="false" label="Teacher3@gmail.com" value="3"/>
+                <element inactive_on_update="false" label="Teacher4@gmail.com" value="4"/>
+            </choice>
+        </element>
+        <element choice="1" label="Phone Number" max_length="40" name="phone_number" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="7687554536" value="3"/>
+                <element inactive_on_update="false" label="7867564352" value="4"/>
+                <element inactive_on_update="false" label="9876354566" value="2"/>
+                <element inactive_on_update="false" label="9924567836" value="1"/>
+            </choice>
+        </element>
+        <element choice="1" label="Teacher Name" max_length="40" name="teacher_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Raju" value="4"/>
+                <element inactive_on_update="false" label="ramu" value="2"/>
+                <element inactive_on_update="false" label="Sai" value="1"/>
+                <element inactive_on_update="false" label="Syam" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

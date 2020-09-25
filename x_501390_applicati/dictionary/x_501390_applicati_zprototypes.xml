@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="zPrototypes" max_length="40" name="x_501390_applicati_zprototypes" sizeclass="6" type="collection">
+        <element label="Status" max_length="40" name="u_integer_8" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Prototype notes" max_length="4000" name="u_journal_7" type="journal"/>
+        <element attributes="encode_utf8=false" label="Prototype Evangelist" max_length="32" name="u_reference_4" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Assigned development group" max_length="32" name="u_reference_5" reference="sys_user_group" type="reference"/>
+        <element attributes="encode_utf8=false" label="Demo location" max_length="32" name="u_reference_6" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Prototype Number" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HHD Identifier" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="System name" max_length="40" name="u_string_3" type="string"/>
+    </element>
+</database>

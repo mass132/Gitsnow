@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_client_theme">
+    <sys_sg_client_theme action="INSERT_OR_UPDATE">
+        <name>demo</name>
+        <palette>{"Brand":"#00ff00","Secondary":"#ffebcd","Primary":"#0000ff","Destructive":"#7fffd4"}</palette>
+        <sys_class_name>sys_sg_client_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-13 05:50:47</sys_created_on>
+        <sys_id>34169df62f151810c5a950492799b6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo</sys_name>
+        <sys_package display_value="Application1" source="x_501390_applicati">8dcf48cc2f195010c5a950492799b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application1">8dcf48cc2f195010c5a950492799b610</sys_scope>
+        <sys_update_name>sys_sg_client_theme_34169df62f151810c5a950492799b6de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-13 05:50:47</sys_updated_on>
+    </sys_sg_client_theme>
+    <sys_translated_text action="delete_multiple" query="documentkey=34169df62f151810c5a950492799b6de"/>
+</record_update>
